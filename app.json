@@ -1,0 +1,5 @@
+{
+  "name": "MurakumoBot",
+  "description": "Discord bot to be deployed on heroku .",
+  "addons": [ "JDA" ]
+}
